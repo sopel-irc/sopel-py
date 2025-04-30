@@ -1,0 +1,11 @@
+## Changelog
+
+### 1.0.1
+
+Fixed installation for 8.0 development versions; now installable on Sopel 7.1.x
+too. (No reason to do so, but it will work.)
+
+
+### 1.0.0
+
+First release of `sopel-py`.
